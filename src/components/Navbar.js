@@ -1,20 +1,21 @@
-import React, {useEffect} from 'react';
+import React, { useEffect } from 'react';
 import '../styles/Navbar.css';
 
 
 
 
 // const styles = {
-//   navbar: {
-//     // background: '#EFDECD',
+//   navbarText: {
+//     background: '#EFDECD',
 //     textAlign: 'end',
-    
-  
+//     color: "white",
+
+
 //   }
 // }
 
 function Navbar(props) {
-  
+
   const {
 
     pages = [],
@@ -27,15 +28,15 @@ function Navbar(props) {
 
   useEffect(() => {
 
-    document.title=currentPage.name
-  }) 
+    document.title = currentPage.name
+  })
 
   return (
 
     <nav className="navbar">
       {pages.map((page) =>
       (
-        <a onClick={()=> 
+        <a onClick={() =>
           setCurrentPage(page)
         }>{page.name}</a>
       )
