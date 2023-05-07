@@ -1,13 +1,8 @@
-.section {
-  display: flex;
-  
-  height: 200px;
-}
 
-.section h1 {
+section h3 {
   margin: 0;
-  padding-top: 75px;
+  padding-top: 75px; 
   text-align: center;
-  color: white;
-  font-size: 3rem;
-}
+  color: white; 
+  font-size: 3rem;  
+}  
