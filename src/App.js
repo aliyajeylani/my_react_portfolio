@@ -7,7 +7,7 @@ import Page from './components/Page'
 function App() {
 
   const [pages] = useState([
-    {name: 'Home'}, {name: 'Portfolio'}, {name: 'Form'}, {name: 'Resume'}
+    {name: 'About Me'}, {name: 'Portfolio'}, {name: 'Contact'}, {name: 'Resume'}
 
   ])
 

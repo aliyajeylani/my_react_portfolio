@@ -4,7 +4,7 @@ import '../styles/Contact.css';
 
 
 
-function Form() {
+function Contact() {
 
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
@@ -99,4 +99,4 @@ function Form() {
   );
 }
 
-export default Form;
+export default Contact;
