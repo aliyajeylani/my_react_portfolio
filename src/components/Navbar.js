@@ -6,7 +6,8 @@ import '../styles/Navbar.css';
 
 const styles = {
   text: {
-    color: "white",
+    color: "black",
+    fontSize: "20px",
   }
 }
 
@@ -32,9 +33,9 @@ function Navbar(props) {
     <nav className="navbar">
       {pages.map((page) =>
       (
-        <a style={styles.text} onClick={() =>
+        <button style={styles.text} onClick={() =>
           setCurrentPage(page)
-        }>{page.name}</a>
+        }>{page.name}</button>
       )
       )}
     </nav>

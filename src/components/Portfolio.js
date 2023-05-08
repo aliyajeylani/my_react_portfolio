@@ -5,17 +5,17 @@ import '../styles/Portfolio.css';
 
 
 
-const styles = {
-  text: {
-    textAlign: 'center',
-    color: 'orange',
-    fontWeight: "bolder",
-    fontSize: "20px",
-    textIndent: "1%",
+// const styles = {
+//   text: {
+//     textAlign: 'center',
+//     color: 'orange',
+//     fontWeight: "bolder",
+//     fontSize: "20px",
+//     textIndent: "1%",
 
-  },
+//   },
 
-}
+// }
 
 
 
