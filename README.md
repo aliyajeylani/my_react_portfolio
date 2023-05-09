@@ -9,9 +9,9 @@
    ![image](./public/react_profile.png)
 
   ### Installation
-  Clone my project from github ( git@github.com:aliyajeylani/my_react_portfolio.git)
-  Install dependencies: react, react-bootstrap, react-dom, etc, by using (npm install)
-  Run the project/start our server by using (npm start)
+ - Clone my project from github ( git@github.com:aliyajeylani/my_react_portfolio.git)
+ - Install dependencies: react, react-bootstrap, react-dom, etc, by using (npm install)
+ - Run the project/start our server by using (npm start)
 
   ### Usage
 
