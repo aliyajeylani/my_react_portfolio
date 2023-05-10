@@ -4,7 +4,7 @@
   This week's project is to create a react app that allows me to share my project work with fellow developers and collaborate on future projects. 
 
 
-  Here's the url of my functional, deployed application: 
+  Here's the url of my functional, deployed application: https://aliyajeylani.github.io/reactportfolio/
 
    ![image](./public/react_profile.png)
 
