@@ -15,7 +15,7 @@
 
   ### Usage
 
-  Here is the link to my gitHub repository: https://github.com/aliyajeylani/my_react_portfolio
+  Here is the link to my gitHub repository: https://github.com/aliyajeylani/reactportfolio
 
 
   ### Credits
